@@ -1,1 +1,5 @@
 Hello GitHub!
+
+Make it like master.
+Check the merge function.
+
