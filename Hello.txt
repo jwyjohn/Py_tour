@@ -13,16 +13,7 @@ abcdefg
 Hello zhujun!
 
 Hello, everybody.
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 
 no, I don't know.
 
-=======
-otherwise he
->>>>>>> 1e53f3a3802ef6a5957b03d27d365dc3fb70c094
-=======
-otherwise he31415926
->>>>>>> 288c00b901d6ddd1e462be52897376c121a83aaa
 xiaochunfu
