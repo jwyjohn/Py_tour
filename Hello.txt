@@ -16,23 +16,10 @@ abcdefg
 Hello zhujun!
 
 Hello, everybody.
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-		
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 1e40fb580016b745be430ba4f517af72411625b1
-
-=======
->>>>>>> refs/remotes/origin/master
 
 no, I don't know.
 
 zcw
 
 xiaochunfu
-=======
 say hello again
->>>>>>> d25722456b7ea84adeddb868ddf38800f555927e
