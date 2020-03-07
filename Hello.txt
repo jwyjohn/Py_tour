@@ -10,7 +10,22 @@ Hello HeYiNing!
 11235813
 abcdefg
 
+Hello zhujun!
 
 Hello, everybody.
+<<<<<<< HEAD
 		QMI3 has arrivived here
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 1e40fb580016b745be430ba4f517af72411625b1
 
+
+no, I don't know.
+
+=======
+otherwise he
+>>>>>>> 1e53f3a3802ef6a5957b03d27d365dc3fb70c094
+=======
+otherwise he31415926
+>>>>>>> 288c00b901d6ddd1e462be52897376c121a83aaa
