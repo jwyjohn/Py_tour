@@ -6,6 +6,9 @@ This is for testing branch dev.
 This is not intended for.
 
 
+Added Dev.
+
+
 Hello HeYiNing!
 11235813
 abcdefg
@@ -13,6 +16,7 @@ abcdefg
 Hello zhujun!
 
 Hello, everybody.
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 		
@@ -26,4 +30,9 @@ Hello, everybody.
 
 no, I don't know.
 
+zcw
+
 xiaochunfu
+=======
+say hello again
+>>>>>>> d25722456b7ea84adeddb868ddf38800f555927e
